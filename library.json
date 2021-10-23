@@ -1,6 +1,6 @@
 {
     "name": "ESP8266-HelloWorld",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A \"Hello world\" program is a computer program that outputs \"Hello World\" (or some variant) on a display device",
     "keywords": "planet, happiness, people",
     "repository":
@@ -27,6 +27,6 @@
     "dependencies": {
       "ownername/print": "~1.3.0"
     },
-    "frameworks": ["Arduino"],
+    "frameworks": ["arduino"],
     "platforms": ["espressif8266"]
   }
