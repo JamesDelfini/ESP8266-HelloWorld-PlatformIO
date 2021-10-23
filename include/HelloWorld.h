@@ -1,3 +1,6 @@
+#ifndef HELLOWORLD_H
+#define HELLOWORLD_H
+
 #include "Arduino.h"
 
 class HelloWorld {
@@ -10,3 +13,5 @@ public:
 };
 
 extern HelloWorld helloWorld;
+
+#endif
