@@ -18,7 +18,7 @@
     ],
     "export": {
       "exclude": [
-        "src/main/*",
+        "src/main.cpp",
         "test/*"
       ]
     },
